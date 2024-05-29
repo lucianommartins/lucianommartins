@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🤖 Trabalho como Developer Advocate de Cloud AI no Google<br>🇧🇷 Sou brasileiro, nortista, casado, pai de dois humaninhos e de três pitbulls 🐕<br>🤝 Estou sempre em busca de colaborar com projetos que deem retorno social<br>🪴 Atualmente, estudando para tentar diminuir um dos meus maiores gaps de conhecimento: frontend -> então, Angular ftw!<br>💡 Conte comigo para tentar ajudar com questões relacionadas a engenharia de software, ciência de dados, inteligência artificial e consciência de classe.
+🤖 Trabalho como Developer Advocate de Google AI no Google<br>🇧🇷 Sou brasileiro, nortista, casado, pai de dois humaninhos e de três pitbulls 🐕<br>🤝 Estou sempre em busca de colaborar com projetos que deem retorno social<br>🪴 Atualmente, estudando para tentar diminuir um dos meus maiores gaps de conhecimento: frontend -> então, Angular ftw!<br>💡 Conte comigo para tentar ajudar com questões relacionadas a engenharia de software, ciência de dados, inteligência artificial e consciência de classe.
 
 
 # 💫 About Me:
