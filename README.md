@@ -1,9 +1,9 @@
 # 💫 Sobre Mim:
-🤖 Trabalho como Developer Advocate de Google AI no Google<br>🇧🇷 Sou brasileiro, nortista, casado, pai de dois humaninhos e de três pitbulls 🐕<br>🤝 Estou sempre em busca de colaborar com projetos que deem retorno social<br>🪴 Atualmente, estudando para tentar diminuir um dos meus maiores gaps de conhecimento: frontend -> então, Angular ftw!<br>💡 Conte comigo para tentar ajudar com questões relacionadas a engenharia de software, ciência de dados, inteligência artificial e consciência de classe.
+🤖 Trabalho como engenheiro líder e Developer Advocate de Google AI na Google DeepMind.<br>🇧🇷 Sou brasileiro, nortista, casado, pai de dois humaninhos e de três pitbulls 🐕<br>🤝 Estou sempre em busca de colaborar com projetos que deem retorno social<br>🪴 Atualmente, estudando para tentar diminuir um dos meus maiores gaps de conhecimento: frontend -> então, Angular ftw!<br>💡 Conte comigo para tentar ajudar com questões relacionadas a engenharia de software, ciência de dados, inteligência artificial e consciência de classe.
 
 
 # 💫 About Me:
-🤖 I'm currently working as Developer Advocate for Cloud AI at Google<br>🇧🇷 I'm Brazilian, from the north, married, father of two little humans and three pitbulls 🐕<br>🤝 I'm always looking to collaborate with projects with social give back<br>🪴 Currently I'm trying to cover my knowledge gap with frontend -> so Angular ftw!<br>💡 Count on me to try helping with questions about software engineering, data science, artificial intelligence and class consciousness.
+🤖 I'm currently working as Lead Engineer and AI Developer Advocate at Google DeepMind.<br>🇧🇷 I'm Brazilian, from the north, married, father of two little humans and three pitbulls 🐕<br>🤝 I'm always looking to collaborate with projects with social give back<br>🪴 Currently I'm trying to cover my knowledge gap with frontend -> so Angular ftw!<br>💡 Count on me to try helping with questions about software engineering, data science, artificial intelligence and class consciousness.
 
 
 ## 🌐 Socials:
