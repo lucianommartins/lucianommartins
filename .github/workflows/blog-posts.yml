@@ -9,6 +9,9 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    # Add this permissions block
+    permissions:
+      contents: write # Give the workflow write access to the repository
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
