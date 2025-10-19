@@ -87,6 +87,13 @@
 
 ---
 
+<p align="center">
+  <!-- This image will be generated and updated by the metrics workflow -->
+  <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/master/github-metrics.svg" alt="Metrics"/>
+</p>
+
+---
+
 ### 💡 Meu Perfil no Stack Overflow / My Stack Overflow Profile
 <p align="center">
   <a href="https://stackoverflow.com/users/18227814">
