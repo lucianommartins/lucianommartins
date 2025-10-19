@@ -31,21 +31,22 @@ jobs:
           # Load the base repository data
           base: repositories
           
-          # === CORE PLUGINS FOR THE "AXIS" GRAPH ===
-          # Enable the habits plugin to analyze contribution types
-          plugin_habits: yes
-          # MODIFIED: Analyze a smaller set of recent events to avoid problematic data
-          plugin_habits_from: 100
-          # MODIFIED: Look at a more recent time window
-          plugin_habits_days: 14
-          plugin_habits_charts: yes     # THIS ENABLES THE AXIS CHART
-          plugin_habits_trim: yes       # Hide sections with no activity to keep it clean
+          # === NEW PLUGIN CONFIGURATION ===
+          # The "habits" plugin has been removed to prevent the error.
+          # We are replacing it with the following stable and visually rich plugins.
           
-          # === OPTIONAL BUT RECOMMENDED PLUGINS ===
-          # Add a calendar of your recent activity
-          plugin_isocalendar: yes
+          # Displays official GitHub achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: C # Show achievements with rank C or higher
           
-          # Show your most used languages
+          # Shows lines of code added and removed
+          plugin_lines: yes
+          
+          # Displays recent followers for community engagement
+          plugin_people: yes
+          plugin_people_types: followers # You can also use "following"
+          
+          # Shows your most used languages
           plugin_languages: yes
           plugin_languages_limit: 8     # Show up to 8 languages
           
