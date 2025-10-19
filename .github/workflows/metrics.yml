@@ -13,8 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # CRITICAL FIX: Use the Personal Access Token (PAT) instead of the default token.
-          # This provides the necessary permissions to read organization memberships.
+          # Use the Personal Access Token (PAT) stored in secrets
           token: ${{ secrets.METRICS_TOKEN }}
           
           # The filename for the output SVG
