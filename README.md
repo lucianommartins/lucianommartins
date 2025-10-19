@@ -58,16 +58,25 @@
 
 ### Minhas Estatísticas do Github 📊 / My Github Stats 📊
 <p align="center">
-  <!-- GitHub Profile Summary Cards - Light Theme -->
+  <!-- GitHub Profile Summary Cards (Dark Theme) -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details"/>
+    <!-- IMPORTANT: The path is now /github_dark/ instead of /github/ -->
+    <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
   </a>
-  <!-- Use a div for better alignment -->
-  <div>
-    <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per Language" width="415px"/>
-    <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Most Commit Language" width="415px"/>
-  </div>
-  <!-- GitHub Streak Stats -->
+  <br>
+  <!-- Adding the richer "Stats" and "Productive Time" cards -->
+  <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats Card"/>
+  <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time Card"/>
+</p>
+
+<p align="center">
+  <!-- Anurag's GitHub Readme Stats (Most Popular) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucianommartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Luciano's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianommartins&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=lucianommartins&theme=tokyonight" alt="GitHub Streak"/>
   </a>
