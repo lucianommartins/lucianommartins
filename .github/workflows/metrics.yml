@@ -11,9 +11,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      # CRITICAL FIX: Add read access for organization data
+      # CORRECTED SYNTAX: The key is 'organizations' and the value is 'read'
       contents: write
-      read:org 
+      organizations: read 
 
     steps:
       - uses: lowlighter/metrics@latest
