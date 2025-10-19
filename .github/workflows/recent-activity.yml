@@ -1,14 +1,13 @@
 name: Update README with Recent Activity
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/30 * * * *' # Every 30 minutes
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Update README with recent activity
-    # Add this permissions block
     permissions:
       contents: write
     steps:
@@ -16,3 +15,6 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Add this 'with' block to increase the number of lines
+        with:
+          MAX_LINES: 15
