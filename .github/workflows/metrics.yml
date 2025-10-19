@@ -28,26 +28,25 @@ jobs:
           # Use the classic template
           template: classic
           
-          # Load the base repository data
-          base: repositories
-          
-          # === STABLE PLUGIN CONFIGURATION ===
-          # The "habits" and "achievements" plugins have been removed to prevent errors.
-          # They are replaced with the following stable and visually rich plugins.
+          # CRITICAL CHANGE: Remove the 'base' setting to analyze the whole user profile,
+          # instead of just the single repository where the action runs.
+          base: ""
+
+          # === PLUGIN CONFIGURATION FOR A FULL USER OVERVIEW ===
           
           # Shows a 3D-style isometric calendar of your contributions
           plugin_isocalendar: yes
           
-          # Shows lines of code added and removed
+          # Shows lines of code added and removed across all your repos
           plugin_lines: yes
+          
+          # Shows your most used languages across all your repos
+          plugin_languages: yes
+          plugin_languages_limit: 8
           
           # Displays recent followers for community engagement
           plugin_people: yes
           plugin_people_types: followers
-          
-          # Shows your most used languages
-          plugin_languages: yes
-          plugin_languages_limit: 8
           
           # Configure timezone for accurate stats
           config_timezone: America/Sao_Paulo
