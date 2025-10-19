@@ -44,7 +44,11 @@
 
 ### 📕 Últimos Artigos / Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically populated by a GitHub Action -->
+- [Primeiros passos com o Gemini na Vertex AI](https://medium.com/google-cloud-brasil/primeiros-passos-com-o-gemini-na-vertex-ai-623083cf8780?source=rss-925379214ac4------2)
+- [Desenvolvendo com Llama2 na Google Cloud](https://medium.com/google-cloud-brasil/desenvolvendo-com-llama2-na-google-cloud-e5b7b3d0ca14?source=rss-925379214ac4------2)
+- [Desenvolvendo soluções com IA Generativa na Google Cloud](https://medium.com/google-cloud-brasil/desenvolvendo-solu%C3%A7%C3%B5es-com-ia-generativa-na-google-cloud-d22d148048a3?source=rss-925379214ac4------2)
+- [Criando um modelo de classificação de imagens com AutoML na Vertex AI](https://medium.com/google-cloud-brasil/criando-um-modelo-de-classifica%C3%A7%C3%A3o-de-imagens-com-automl-na-vertex-ai-a19c89c02166?source=rss-925379214ac4------2)
+- [Treinando Graph Neural Networks utilizando a Vertex AI](https://medium.com/google-cloud-brasil/treinando-graph-neural-networks-utilizando-a-vertex-ai-3e0884ab4efb?source=rss-925379214ac4------2)
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
   <a href="https://medium.com/@lucianommartins">▶️ mais artigos / more posts...</a>
