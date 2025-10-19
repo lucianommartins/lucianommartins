@@ -1,0 +1,51 @@
+name: Metrics
+
+on:
+  # Run this workflow automatically every 4 hours
+  schedule:
+    - cron: "0 */4 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push the generated SVG
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # The filename for the output SVG
+          filename: github-metrics.svg
+          
+          # Get metrics for your own user account
+          user: lucianommartins
+          
+          # Use the classic template
+          template: classic
+          
+          # Load the base repository data
+          base: repositories
+          
+          # === CORE PLUGINS FOR THE "AXIS" GRAPH ===
+          # Enable the habits plugin to analyze contribution types
+          plugin_habits: yes
+          plugin_habits_from: 200       # Analyze the last 200 events for a good overview
+          plugin_habits_days: 30        # Look at activity over the last 30 days
+          plugin_habits_charts: yes     # THIS ENABLES THE AXIS CHART
+          plugin_habits_trim: yes       # Hide sections with no activity to keep it clean
+          
+          # === OPTIONAL BUT RECOMMENDED PLUGINS ===
+          # Add a calendar of your recent activity
+          plugin_isocalendar: yes
+          
+          # Show your most used languages
+          plugin_languages: yes
+          plugin_languages_limit: 8     # Show up to 8 languages
+          
+          # Configure timezone for accurate stats
+          config_timezone: America/Sao_Paulo
