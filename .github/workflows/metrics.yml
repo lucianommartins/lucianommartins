@@ -10,16 +10,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      # CORRECTED SYNTAX: The key is 'organizations' and the value is 'read'
-      contents: write
-      organizations: read 
-
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # CRITICAL FIX: Use the Personal Access Token (PAT) instead of the default token.
+          # This provides the necessary permissions to read organization memberships.
+          token: ${{ secrets.METRICS_TOKEN }}
           
           # The filename for the output SVG
           filename: github-metrics.svg
@@ -30,22 +26,15 @@ jobs:
           # Use the classic template
           template: classic
           
-          # Set the base to user-level sections to force a user-wide analysis
+          # Set the base to user-level sections for a full user-wide analysis
           base: header, activity, community
 
           # === PLUGIN CONFIGURATION FOR A FULL USER OVERVIEW ===
           
-          # Shows a 3D-style isometric calendar of your contributions
           plugin_isocalendar: yes
-          
-          # Shows lines of code added and removed across all your repos
           plugin_lines: yes
-          
-          # Shows your most used languages across all your repos
           plugin_languages: yes
           plugin_languages_limit: 8
-          
-          # Displays recent followers for community engagement
           plugin_people: yes
           plugin_people_types: followers
           
