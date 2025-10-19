@@ -34,8 +34,10 @@ jobs:
           # === CORE PLUGINS FOR THE "AXIS" GRAPH ===
           # Enable the habits plugin to analyze contribution types
           plugin_habits: yes
-          plugin_habits_from: 200       # Analyze the last 200 events for a good overview
-          plugin_habits_days: 30        # Look at activity over the last 30 days
+          # MODIFIED: Analyze a smaller set of recent events to avoid problematic data
+          plugin_habits_from: 100
+          # MODIFIED: Look at a more recent time window
+          plugin_habits_days: 14
           plugin_habits_charts: yes     # THIS ENABLES THE AXIS CHART
           plugin_habits_trim: yes       # Hide sections with no activity to keep it clean
           
