@@ -60,11 +60,9 @@
 <p align="center">
   <!-- GitHub Profile Summary Cards (Dark Theme) -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <!-- IMPORTANT: The path is now /github_dark/ instead of /github/ -->
     <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
   </a>
   <br>
-  <!-- Adding the richer "Stats" and "Productive Time" cards -->
   <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats Card"/>
   <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time Card"/>
 </p>
@@ -82,7 +80,24 @@
   </a>
 </p>
 
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+### 💡 Meu Perfil no Stack Overflow / My Stack Overflow Profile
+<p align="center">
+  <a href="https://stackoverflow.com/users/[YOUR_USER_ID_HERE]">
+    <!-- IMPORTANT: Replace [YOUR_USER_ID_HERE] with your actual Stack Overflow user ID -->
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=[YOUR_USER_ID_HERE]&theme=dark" alt="Stack Overflow Card"/>
+  </a>
+</p>
+
 ---
 
 ### ✨ Minha Atividade Recente / My Recent Activity
-<!-- GITHUB_ACTIVITY:START -->- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 06/10/2025: lucianommartins commented on pull request vllm-project/vllm#26189<br>- 03/10/2025: lucianommartins contributed to vllm-project/vllm<br>- 24/09/2025: lucianommartins commented on an issue in vllm<br><!-- GITHUB_ACTIVITY:END -->
+<!-- GITHUB_ACTIVITY:START -->
+   <!-- This section will be automatically updated -->
+<!-- GITHUB_ACTIVITY:END -->
