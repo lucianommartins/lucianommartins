@@ -31,24 +31,23 @@ jobs:
           # Load the base repository data
           base: repositories
           
-          # === NEW PLUGIN CONFIGURATION ===
-          # The "habits" plugin has been removed to prevent the error.
-          # We are replacing it with the following stable and visually rich plugins.
+          # === STABLE PLUGIN CONFIGURATION ===
+          # The "habits" and "achievements" plugins have been removed to prevent errors.
+          # They are replaced with the following stable and visually rich plugins.
           
-          # Displays official GitHub achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: C # Show achievements with rank C or higher
+          # Shows a 3D-style isometric calendar of your contributions
+          plugin_isocalendar: yes
           
           # Shows lines of code added and removed
           plugin_lines: yes
           
           # Displays recent followers for community engagement
           plugin_people: yes
-          plugin_people_types: followers # You can also use "following"
+          plugin_people_types: followers
           
           # Shows your most used languages
           plugin_languages: yes
-          plugin_languages_limit: 8     # Show up to 8 languages
+          plugin_languages_limit: 8
           
           # Configure timezone for accurate stats
           config_timezone: America/Sao_Paulo
