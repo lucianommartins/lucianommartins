@@ -11,7 +11,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Required to push the generated SVG
+      # CRITICAL FIX: Add read access for organization data
+      contents: write
+      read:org 
 
     steps:
       - uses: lowlighter/metrics@latest
@@ -28,7 +30,7 @@ jobs:
           # Use the classic template
           template: classic
           
-          # CRITICAL FIX: Set the base to user-level sections to force a user-wide analysis.
+          # Set the base to user-level sections to force a user-wide analysis
           base: header, activity, community
 
           # === PLUGIN CONFIGURATION FOR A FULL USER OVERVIEW ===
