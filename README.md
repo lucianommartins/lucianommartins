@@ -89,7 +89,7 @@
 
 <p align="center">
   <!-- This image will be generated and updated by the metrics workflow -->
-  <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/master/github-metrics.svg" alt="Metrics"/>
+  <img src="https://github.com/lucianommartins/lucianommartins/blob/main/github-metrics.svg" alt="Metrics"/>
 </p>
 
 ---
