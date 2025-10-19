@@ -44,11 +44,7 @@
 
 ### 📕 Últimos Artigos / Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Primeiros passos com o Gemini na Vertex AI](https://medium.com/google-cloud-brasil/primeiros-passos-com-o-gemini-na-vertex-ai-623083cf8780?source=rss-925379214ac4------2)
-- [Desenvolvendo com Llama2 na Google Cloud](https://medium.com/google-cloud-brasil/desenvolvendo-com-llama2-na-google-cloud-e5b7b3d0ca14?source=rss-925379214ac4------2)
-- [Desenvolvendo soluções com IA Generativa na Google Cloud](https://medium.com/google-cloud-brasil/desenvolvendo-solu%C3%A7%C3%B5es-com-ia-generativa-na-google-cloud-d22d148048a3?source=rss-925379214ac4------2)
-- [Criando um modelo de classificação de imagens com AutoML na Vertex AI](https://medium.com/google-cloud-brasil/criando-um-modelo-de-classifica%C3%A7%C3%A3o-de-imagens-com-automl-na-vertex-ai-a19c89c02166?source=rss-925379214ac4------2)
-- [Treinando Graph Neural Networks utilizando a Vertex AI](https://medium.com/google-cloud-brasil/treinando-graph-neural-networks-utilizando-a-vertex-ai-3e0884ab4efb?source=rss-925379214ac4------2)
+<!-- This section is automatically populated -->
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
   <a href="https://medium.com/@lucianommartins">▶️ mais artigos / more posts...</a>
@@ -57,6 +53,11 @@
 ---
 
 ### Minhas Estatísticas do Github 📊 / My Github Stats 📊
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/master/github-metrics.svg" alt="Metrics"/>
+</p>
+
 <p align="center">
   <!-- GitHub Profile Summary Cards (Dark Theme) -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -73,7 +74,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=lucianommartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Luciano's GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianommartins&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    <!-- THIS IS THE LINE THAT WAS CHANGED -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianommartins&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
   </a>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=lucianommartins&theme=tokyonight" alt="GitHub Streak"/>
@@ -87,22 +89,16 @@
 
 ---
 
-<p align="center">
-  <!-- This image will be generated and updated by the metrics workflow -->
-  <img src="https://github.com/lucianommartins/lucianommartins/blob/main/github-metrics.svg" alt="Metrics"/>
-</p>
-
----
-
 ### 💡 Meu Perfil no Stack Overflow / My Stack Overflow Profile
 <p align="center">
-  <a href="https://stackoverflow.com/users/18227814">
-    <!-- IMPORTANT: Replace [YOUR_USER_ID_HERE] with your actual Stack Overflow user ID -->
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=18227814&theme=dark" alt="Stack Overflow Card"/>
+  <a href="https://stackoverflow.com/users/1068800/luciano-martins">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=1068800&theme=dark" alt="Stack Overflow Card"/>
   </a>
 </p>
 
 ---
 
 ### ✨ Minha Atividade Recente / My Recent Activity
-<!-- GITHUB_ACTIVITY:START -->- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br>- 19/10/2025: lucianommartins pushed lucianommartins<br><!-- GITHUB_ACTIVITY:END -->
+<!-- GITHUB_ACTIVITY:START -->
+   <!-- This section is automatically updated -->
+<!-- GITHUB_ACTIVITY:END -->
