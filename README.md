@@ -89,9 +89,9 @@
 
 ### 💡 Meu Perfil no Stack Overflow / My Stack Overflow Profile
 <p align="center">
-  <a href="https://stackoverflow.com/users/[YOUR_USER_ID_HERE]">
+  <a href="https://stackoverflow.com/users/18227814">
     <!-- IMPORTANT: Replace [YOUR_USER_ID_HERE] with your actual Stack Overflow user ID -->
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=[YOUR_USER_ID_HERE]&theme=dark" alt="Stack Overflow Card"/>
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=18227814&theme=dark" alt="Stack Overflow Card"/>
   </a>
 </p>
 
