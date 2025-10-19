@@ -85,6 +85,6 @@
 ---
 
 ### ✨ Minha Atividade Recente / My Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#26189](https://github.com/vllm-project/vllm/pull/26189#issuecomment-3373947042) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-<!--END_SECTION:activity-->
+<!-- GITHUB_ACTIVITY:START -->
+   <!-- This section will be automatically updated -->
+<!-- GITHUB_ACTIVITY:END -->
