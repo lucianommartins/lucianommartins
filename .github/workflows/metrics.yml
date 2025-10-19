@@ -28,9 +28,8 @@ jobs:
           # Use the classic template
           template: classic
           
-          # CRITICAL CHANGE: Remove the 'base' setting to analyze the whole user profile,
-          # instead of just the single repository where the action runs.
-          base: ""
+          # CRITICAL FIX: Set the base to user-level sections to force a user-wide analysis.
+          base: header, activity, community
 
           # === PLUGIN CONFIGURATION FOR A FULL USER OVERVIEW ===
           
