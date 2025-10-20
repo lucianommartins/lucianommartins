@@ -59,7 +59,7 @@
 ### Minhas Estatísticas do Github 📊 / My Github Stats 📊
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/master/github-metrics.svg" alt="Metrics"/>
+  <img src="https://github.com/lucianommartins/lucianommartins/blob/main/github-metrics.svg" alt="Metrics"/>
 </p>
 
 <p align="center">
