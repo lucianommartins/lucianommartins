@@ -95,8 +95,8 @@
 
 ### 💡 Meu Perfil no Stack Overflow / My Stack Overflow Profile
 <p align="center">
-  <a href="https://stackoverflow.com/users/1068800/luciano-martins">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=1068800&theme=dark" alt="Stack Overflow Card"/>
+  <a href="https://stackoverflow.com/users/18227814/luciano-martins">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=18227814&theme=dark" alt="Stack Overflow Card"/>
   </a>
 </p>
 
