@@ -37,5 +37,12 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers
           
+          # === ACHIEVEMENTS (replaces broken github-profile-trophy) ===
+          plugin_achievements: yes
+          plugin_achievements_threshold: B      # Show achievements from rank B and above
+          plugin_achievements_secrets: yes      # Include secret achievements
+          plugin_achievements_display: detailed # Show detailed info
+          plugin_achievements_limit: 0          # No limit (show all)
+          
           # Configure timezone for accurate stats
           config_timezone: America/Sao_Paulo

@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Ol%C3%A1%2C+eu+sou+o+Luciano+Martins!+%F0%9F%91%8B;Hello+there%2C+I'm+Luciano+Martins!+%F0%9F%91%8B;Building+the+future+with+AI+%F0%9F%A4%96" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+whoami;Luciano+Martins+%7C+AI+Engineer+%40+DeepMind;Building+the+future+with+AI+%F0%9F%A4%96;print(%22Hello%2C+World!%22)" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -50,12 +50,12 @@
 
 ---
 
-### 🏆 Troféus GitHub / GitHub Trophies
+### 💡 Dev Quote / Citação Dev
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=lucianommartins&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=lucianommartins&theme=flat&no-frame=true&no-bg=true&column=7"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=lucianommartins&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
   </picture>
 </p>
 
@@ -77,8 +77,18 @@
 
 ### Minhas Estatísticas do Github 📊 / My Github Stats 📊
 
+<!-- Main Metrics SVG with Achievements -->
 <p align="center">
   <img src="https://github.com/lucianommartins/lucianommartins/blob/main/github-metrics.svg" alt="Metrics"/>
+</p>
+
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg"/>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+  </picture>
 </p>
 
 <p align="center">
@@ -128,7 +138,11 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucianommartins/lucianommartins/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucianommartins/lucianommartins/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  </picture>
 </p>
 
 ---
@@ -136,7 +150,11 @@
 ### 💡 Meu Perfil no Stack Overflow / My Stack Overflow Profile
 <p align="center">
   <a href="https://stackoverflow.com/users/18227814/luciano-martins">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=18227814&theme=dark" alt="Stack Overflow Card"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=18227814&theme=dark"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=18227814&theme=light"/>
+      <img src="https://github-readme-stackoverflow.vercel.app/?userID=18227814&theme=dark" alt="Stack Overflow Card"/>
+    </picture>
   </a>
 </p>
 
@@ -145,7 +163,8 @@
 ### ✨ Minha Atividade Recente / My Recent Activity
 <!-- GITHUB_ACTIVITY:START -->- 17/01/2026: lucianommartins pushed devpulse<br>- 16/01/2026: lucianommartins created a branch<br>- 06/01/2026: lucianommartins pushed roseyTheVoice<br>- 05/01/2026: lucianommartins pushed roseyTheVoice<br>- 05/01/2026: lucianommartins pushed roseyTheVoice<br>- 05/01/2026: lucianommartins pushed roseyTheVoice<br>- 05/01/2026: lucianommartins pushed roseyTheVoice<br>- 04/01/2026: lucianommartins created a branch<br>- 03/01/2026: lucianommartins starred lucianommartins/SimplifAI<br>- 02/12/2024: lucianommartins made this repository public<br><!-- GITHUB_ACTIVITY:END -->
 
-<!-- Footer Wave Animation -->
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer"/>
 </p>
