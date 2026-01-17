@@ -32,8 +32,8 @@ jobs:
           
           plugin_isocalendar: yes
           plugin_lines: yes
-          plugin_languages: yes
-          plugin_languages_limit: 8
+          # Languages disabled - using 3D contrib graph instead (better representation)
+          plugin_languages: no
           plugin_people: yes
           plugin_people_types: followers
           

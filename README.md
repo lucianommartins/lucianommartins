@@ -1,12 +1,12 @@
 <!-- Header Wave Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luciano%20Martins&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20Advocate%20%40%20Google%20DeepMind&descSize=16&descAlignY=52" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luciano%20Martins&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%40%20Google%20DeepMind&descSize=16&descAlignY=52" alt="Header"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+whoami;Luciano+Martins+%7C+AI+Engineer+%40+DeepMind;Building+the+future+with+AI+%F0%9F%A4%96;print(%22Hello%2C+World!%22)" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+whoami;Luciano+Martins+%7C+ML+Engineer+%40+DeepMind;Building+the+future+with+AI+%F0%9F%A4%96;print(%22Hello%2C+World!%22)" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -23,8 +23,8 @@
 
 <!-- About Me - Portuguese -->
 <p>
-  🤖 Trabalho como engenheiro líder e Developer Advocate de IA na Google DeepMind.<br>
-  🇧🇷 Sou brasileiro, nortista, casado, pai de dois humaninhos e de três pitbulls 🐕<br>
+  🤖 Trabalho como Machine Learning Engineer na Google DeepMind.<br>
+  🇧🇷 Sou brasileiro, nortista, casado, pai de dois humaninhos e de dois pitbulls 🐕<br>
   🤝 Estou sempre em busca de colaborar com projetos que deem retorno social<br>
   🪴 Atualmente, estudando para tentar diminuir um dos meus maiores gaps de conhecimento: frontend -> então, Angular ftw!<br>
   💡 Conte comigo para tentar ajudar com questões relacionadas a engenharia de software, ciência de dados, inteligência artificial e consciência de classe.
@@ -32,8 +32,8 @@
 
 <!-- About Me - English -->
 <p>
-  🤖 I'm currently working as Lead Engineer and AI Developer Advocate at Google DeepMind.<br>
-  🇧🇷 I'm Brazilian, from the north, married, father of two little humans and three pitbulls 🐕<br>
+  🤖 I'm currently working as Machine Learning Engineer at Google DeepMind.<br>
+  🇧🇷 I'm Brazilian, from the north, married, father of two little humans and two pitbulls 🐕<br>
   🤝 I'm always looking to collaborate with projects with social give back<br>
   🪴 Currently I'm trying to cover my knowledge gap with frontend -> so Angular ftw!<br>
   💡 Count on me to try helping with questions about software engineering, data science, artificial intelligence and class consciousness.
@@ -92,30 +92,12 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Profile Summary Cards (Dark Theme) -->
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
-  </a>
-  <br>
-  <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats Card"/>
-  <img src="https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time Card"/>
-</p>
-
-<p align="center">
-  <!-- Anurag's GitHub Readme Stats -->
+  <!-- GitHub Readme Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucianommartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lucianommartins&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
     <img src="https://github-readme-stats.vercel.app/api?username=lucianommartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Luciano's GitHub Stats"/>
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianommartins&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianommartins&layout=compact&langs_count=7&theme=default&hide_border=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianommartins&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
-  </picture>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lucianommartins&theme=tokyonight&hide_border=true"/>
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lucianommartins&theme=default&hide_border=true"/>
