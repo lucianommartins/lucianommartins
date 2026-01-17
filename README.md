@@ -1,6 +1,14 @@
-### Olá, eu sou o Luciano Martins! 👋
-### Hello there, I'm Luciano Martins! 👋
-<br/>
+<!-- Header Wave Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luciano%20Martins&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20Advocate%20%40%20Google%20DeepMind&descSize=16&descAlignY=52" alt="Header"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Ol%C3%A1%2C+eu+sou+o+Luciano+Martins!+%F0%9F%91%8B;Hello+there%2C+I'm+Luciano+Martins!+%F0%9F%91%8B;Building+the+future+with+AI+%F0%9F%A4%96" alt="Typing SVG"/>
+  </a>
+</p>
 
 <!-- Social Badges -->
 <div align="center">
@@ -42,6 +50,17 @@
 
 ---
 
+### 🏆 Troféus GitHub / GitHub Trophies
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=lucianommartins&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=lucianommartins&theme=flat&no-frame=true&no-bg=true&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=lucianommartins&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  </picture>
+</p>
+
+---
+
 ### 📕 Últimos Artigos / Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Primeiros passos com o Gemini na Vertex AI](https://medium.com/google-cloud-brasil/primeiros-passos-com-o-gemini-na-vertex-ai-623083cf8780?source=rss-925379214ac4------2)
@@ -73,18 +92,39 @@
 </p>
 
 <p align="center">
-  <!-- Anurag's GitHub Readme Stats (Most Popular) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Anurag's GitHub Readme Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucianommartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lucianommartins&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
     <img src="https://github-readme-stats.vercel.app/api?username=lucianommartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Luciano's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- THIS IS THE LINE THAT WAS CHANGED -->
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianommartins&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&count_private=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianommartins&layout=compact&langs_count=7&theme=default&hide_border=true&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianommartins&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=lucianommartins&theme=tokyonight" alt="GitHub Streak"/>
-  </a>
+  </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lucianommartins&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lucianommartins&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com/?user=lucianommartins&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </picture>
+</p>
+
+---
+
+### 📈 Gráfico de Atividade / Activity Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lucianommartins&theme=tokyo-night&hide_border=true&area=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lucianommartins&theme=minimal&hide_border=true&area=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucianommartins&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  </picture>
+</p>
+
+---
 
 <!-- Snake Animation -->
 <p align="center">
@@ -104,3 +144,8 @@
 
 ### ✨ Minha Atividade Recente / My Recent Activity
 <!-- GITHUB_ACTIVITY:START -->- 17/01/2026: lucianommartins pushed devpulse<br>- 16/01/2026: lucianommartins created a branch<br>- 06/01/2026: lucianommartins pushed roseyTheVoice<br>- 05/01/2026: lucianommartins pushed roseyTheVoice<br>- 05/01/2026: lucianommartins pushed roseyTheVoice<br>- 05/01/2026: lucianommartins pushed roseyTheVoice<br>- 05/01/2026: lucianommartins pushed roseyTheVoice<br>- 04/01/2026: lucianommartins created a branch<br>- 03/01/2026: lucianommartins starred lucianommartins/SimplifAI<br>- 02/12/2024: lucianommartins made this repository public<br><!-- GITHUB_ACTIVITY:END -->
+
+<!-- Footer Wave Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer"/>
+</p>
