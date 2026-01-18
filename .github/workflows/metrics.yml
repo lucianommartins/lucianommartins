@@ -37,21 +37,5 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers
           
-          # === CODING HABITS (shows when you code most) ===
-          plugin_habits: yes
-          plugin_habits_from: 200       # Analyze last 200 events
-          plugin_habits_days: 14        # Last 14 days
-          plugin_habits_charts: yes     # Show charts
-          plugin_habits_charts_type: chartist
-          plugin_habits_trim: yes
-          
-          # === RANDOM CODE SNIPPET (shows code from your repos) ===
-          plugin_code: yes
-          plugin_code_lines: 12         # Number of lines to show
-          plugin_code_load: 400         # Events to load
-          plugin_code_visibility: public
-          plugin_code_skipped: lucianommartins  # Skip profile repo
-          plugin_code_languages: python, javascript, typescript, go, c, cpp
-          
           # Configure timezone for accurate stats
           config_timezone: America/Sao_Paulo
