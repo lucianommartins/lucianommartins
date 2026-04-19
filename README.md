@@ -1,27 +1,3 @@
-<!-- ASCII Art Banner -->
-<div align="center">
-
-```
-██╗     ██╗   ██╗ ██████╗██╗ █████╗ ███╗   ██╗ ██████╗ 
-██║     ██║   ██║██╔════╝██║██╔══██╗████╗  ██║██╔═══██╗
-██║     ██║   ██║██║     ██║███████║██╔██╗ ██║██║   ██║
-██║     ██║   ██║██║     ██║██╔══██║██║╚██╗██║██║   ██║
-███████╗╚██████╔╝╚██████╗██║██║  ██║██║ ╚████║╚██████╔╝
-╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-           ███╗   ███╗ █████╗ ██████╗ ████████╗██╗███╗   ██╗███████╗
-           ████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝██║████╗  ██║██╔════╝
-           ██╔████╔██║███████║██████╔╝   ██║   ██║██╔██╗ ██║███████╗
-           ██║╚██╔╝██║██╔══██║██╔══██╗   ██║   ██║██║╚██╗██║╚════██║
-           ██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║██║ ╚████║███████║
-           ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝
-```
-
-</div>
-
-<!-- Header Wave Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luciano%20Martins&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%40%20Google%20DeepMind&descSize=16&descAlignY=52" alt="Header"/>
-</p>
 
 <!-- Typing Animation -->
 <p align="center">
