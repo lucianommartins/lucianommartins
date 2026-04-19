@@ -32,8 +32,9 @@ jobs:
           
           plugin_isocalendar: yes
           plugin_lines: yes
-          # Languages disabled - using 3D contrib graph instead (better representation)
-          plugin_languages: no
+          plugin_languages: yes
+          plugin_languages_skipped: my-vllm, my-transformers, my-litellm, my-pydantic-ai, jax-ai-stack
+          plugin_languages_limit: 8
           plugin_people: yes
           plugin_people_types: followers
           
