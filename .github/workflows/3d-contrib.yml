@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: lucianommartins/my-github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
