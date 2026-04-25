@@ -15,10 +15,30 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/lucianommartins/lucianommartins/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)
 ```
 
     
