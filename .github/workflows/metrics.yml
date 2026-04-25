@@ -1,10 +1,8 @@
 name: Metrics
 
 on:
-  # Run this workflow automatically every 4 hours
   schedule:
     - cron: "0 */4 * * *"
-  # Allow manual runs from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -13,23 +11,19 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Use the Personal Access Token (PAT) stored in secrets
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # The filename for the output SVG
           filename: github-metrics.svg
-          
-          # Get metrics for your own user account
           user: lucianommartins
-          
-          # Use the classic template
           template: classic
-          
-          # Set the base to user-level sections for a full user-wide analysis
           base: header, activity, community
 
-          # === PLUGIN CONFIGURATION FOR A FULL USER OVERVIEW ===
-          
+          repositories_skipped: |
+            lucianommartins/my-vllm
+            lucianommartins/my-transformers
+            lucianommartins/my-litellm
+            lucianommartins/my-pydantic-ai
+            lucianommartins/jax-ai-stack
+
           plugin_isocalendar: yes
           plugin_lines: yes
           plugin_languages: yes
@@ -42,6 +36,12 @@ jobs:
           plugin_languages_limit: 8
           plugin_people: yes
           plugin_people_types: followers
-          
-          # Configure timezone for accurate stats
+
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_habits_facts: yes
+          plugin_habits_days: 30
+          plugin_habits_from: 500
+
           config_timezone: America/Sao_Paulo
